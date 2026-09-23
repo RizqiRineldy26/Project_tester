@@ -1,0 +1,19 @@
+streamlit
+numpy
+pandas
+tensorflow == 2.20.0
+pillow
+google-genai
+pypdf
+nltk
+chromadb
+sentence-transformers
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-chroma
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+supabase
+requests
